@@ -5,8 +5,11 @@
 
 ## Introduction
 This is Modern UI/UX, Fully Responsive Restaurant Landing Page Website
+
 The project was created by https://www.jsmastery.pro/
+
 Re-written and deployed by me
+
 Take a figma design and turn it into a beautiful website
 
 ## Includes
