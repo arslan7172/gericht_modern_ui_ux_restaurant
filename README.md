@@ -10,7 +10,7 @@ The project was created by https://www.jsmastery.pro/
 
 Re-written and deployed by me
 
-Take a figma design and turn it into a beautiful website
+Took a figma design and turned it into a beautiful website
 
 ## Includes
 - React Functional components and their reusability
