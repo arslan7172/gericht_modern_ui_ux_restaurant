@@ -12,6 +12,8 @@ Re-written and deployed by me
 
 Took a figma design and turned it into a beautiful website
 
+[Figma Design ](https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0%3A1)
+
 ## Includes
 - React Functional components and their reusability
 - React file and folder structure
@@ -20,3 +22,4 @@ Took a figma design and turned it into a beautiful website
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost devices
 - React Icons
+- And more...
